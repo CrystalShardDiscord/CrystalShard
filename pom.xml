@@ -36,7 +36,7 @@
     <dependency>
       <groupId>org.comroid</groupId>
       <artifactId>restless</artifactId>
-      <version>0.19.1</version>
+      <version>0.20.1-SNAPSHOT</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
